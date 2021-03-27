@@ -1,0 +1,12 @@
+<div class="jumbotron text-center">
+  <hr>
+  <button class="btn btn-success btn-lg" (click)="lanzarDados()">Lanzar dados</button>
+  <hr>
+
+  <img class="img" [src]="dadoUno">
+  <img class="img" [src]="dadoDos">
+
+  <hr>
+  <h1 *ngIf="numero1 === numero2"><span class="badge badge-success">¡GANASTE!</span></h1>
+  <hr>
+</div>
