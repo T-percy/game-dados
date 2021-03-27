@@ -1,2 +1,3 @@
 # game-dados
-Juego de dados para practicar Git y GitHub con platzi
+Juego de dados orientado por Udemy.
+Practicando Git y GitHub orientado por platzi
